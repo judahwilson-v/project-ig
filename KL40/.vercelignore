@@ -1,6 +1,7 @@
 .DS_Store
 ._*
-node_modules
+**/.DS_Store
+**/._*
 .next
-kpulse
+node_modules
 *.tsbuildinfo
